@@ -1,0 +1,11 @@
+D:\cSharp\Theory\Theory5\Theory5\bin\Debug\Theory5.exe.config
+D:\cSharp\Theory\Theory5\Theory5\bin\Debug\Theory5.exe
+D:\cSharp\Theory\Theory5\Theory5\bin\Debug\Theory5.pdb
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.csproj.AssemblyReference.cache
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.Form1.resources
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.Properties.Resources.resources
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.csproj.GenerateResource.cache
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.csproj.CoreCompileInputs.cache
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.exe
+D:\cSharp\Theory\Theory5\Theory5\obj\Debug\Theory5.pdb
