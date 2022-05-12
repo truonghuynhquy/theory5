@@ -1,0 +1,33 @@
+D:\Code1\MAIL App\MAIL App\bin\Debug\MAIL App.exe.config
+D:\Code1\MAIL App\MAIL App\bin\Debug\MAIL App.exe
+D:\Code1\MAIL App\MAIL App\bin\Debug\MAIL App.pdb
+D:\Code1\MAIL App\MAIL App\bin\Debug\BouncyCastle.Crypto.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\Mail.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\MailKit.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\MimeKit.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Buffers.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Memory.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Numerics.Vectors.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code1\MAIL App\MAIL App\bin\Debug\BouncyCastle.Crypto.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\Mail.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\MailKit.pdb
+D:\Code1\MAIL App\MAIL App\bin\Debug\MailKit.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\MimeKit.pdb
+D:\Code1\MAIL App\MAIL App\bin\Debug\MimeKit.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Buffers.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Memory.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Numerics.Vectors.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code1\MAIL App\MAIL App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.csproj.AssemblyReference.cache
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.csproj.SuggestedBindingRedirects.cache
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL_App.Form1.resources
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL_App.Properties.Resources.resources
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.csproj.GenerateResource.cache
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.csproj.CoreCompileInputs.cache
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.csproj.CopyComplete
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.exe
+D:\Code1\MAIL App\MAIL App\obj\Debug\MAIL App.pdb
